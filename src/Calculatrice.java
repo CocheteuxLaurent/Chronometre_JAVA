@@ -35,6 +35,10 @@ public class Calculatrice extends JFrame implements Runnable {
         g.drawString("9",120,310);
         g.drawString("+",150,310);
         g.drawString("-",185,310);
+        g.drawString("/",220,310);
+        g.drawString("*",120,335);
+
+
 
 
 
